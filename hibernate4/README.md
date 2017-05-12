@@ -1,3 +1,5 @@
+use maven settings.xml and put it in /.m2 directory for pom to build
+
 hibernate4: How to Use Hibernate 4 in an Application
 ====================================================
 Author: Madhumita Sadhukhan  
